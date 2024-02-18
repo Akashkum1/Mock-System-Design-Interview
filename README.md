@@ -1,4 +1,4 @@
-The [**Mock System Design Interview**] App is a [**React Native**](https://reactnative.dev) application designed to simulate system design interviews. The app enables users to interact with a chat-based interface powered by GPT (Generative Pre-trained Transformer) for question and answer sessions. Moreover, it incorporates a unique [**speech recognition feature**] that allows users to respond to interview questions verbally. The app also utilizes [**Text-to-Speech**] to ask users questions or queries, providing a comprehensive interview experience.
+The **Mock System Design Interview** App is a [**React Native**](https://reactnative.dev) application designed to simulate system design interviews. The app enables users to interact with a chat-based interface powered by GPT (Generative Pre-trained Transformer) for question and answer sessions. Moreover, it incorporates a unique **speech recognition feature** that allows users to respond to interview questions verbally. The app also utilizes **Text-to-Speech** to ask users questions or queries, providing a comprehensive interview experience.
 
 # Getting Started
 
